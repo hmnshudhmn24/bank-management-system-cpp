@@ -33,6 +33,3 @@ bank_management_system/
 
 ## Requirements
 - C++ compiler (GCC, Clang, MSVC)
-
-## Author
-Himanshu Dhiman
